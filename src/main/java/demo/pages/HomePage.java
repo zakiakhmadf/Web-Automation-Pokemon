@@ -16,9 +16,6 @@ public class HomePage {
 
     public void inputAndSearchPokemon(String keyword) {
         // Find element by ID
-        WebDriverWait explicitWait = new WebDriverWait(WebDriverInstance.driver, 30);
-        explicitWait.until(ExpectedConditions.presenceOfElementLocated(By.id("searchInput"))).isDisplayed();
-
         WebElement inputSearch = WebDriverInstance.driver.findElement(By.id("searchInput"));
         // Input keyword
         inputSearch.sendKeys(keyword + Keys.ENTER);

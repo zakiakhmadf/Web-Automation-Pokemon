@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fea381fa-de4c-4049-8579-f83f958ba869" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/ArticlePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/pages/ArticlePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/demo/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/demo/pages/HomePage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,25 +81,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="740" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1588146275395" />
-    <state width="1398" height="640" key="GridCell.Tab.0.bottom" timestamp="1588148900247">
+    <state width="1398" height="314" key="GridCell.Tab.0.bottom" timestamp="1588150248250">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="640" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588148900247" />
+    <state width="1398" height="314" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1588150248250" />
     <state width="753" height="212" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1588148401213" />
-    <state width="1398" height="640" key="GridCell.Tab.0.center" timestamp="1588148900245">
+    <state width="1398" height="314" key="GridCell.Tab.0.center" timestamp="1588150248249">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="640" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588148900245" />
+    <state width="1398" height="314" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1588150248249" />
     <state width="753" height="212" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1588148401212" />
-    <state width="1398" height="640" key="GridCell.Tab.0.left" timestamp="1588148900245">
+    <state width="1398" height="314" key="GridCell.Tab.0.left" timestamp="1588150248248">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="640" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588148900245" />
+    <state width="1398" height="314" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1588150248248" />
     <state width="753" height="212" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1588148401211" />
-    <state width="1398" height="640" key="GridCell.Tab.0.right" timestamp="1588148900246">
+    <state width="1398" height="314" key="GridCell.Tab.0.right" timestamp="1588150248250">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="640" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588148900246" />
+    <state width="1398" height="314" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1588150248249" />
     <state width="753" height="212" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1588148401212" />
     <state x="827" y="378" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1588146648151">
       <screen x="0" y="0" width="1440" height="900" />

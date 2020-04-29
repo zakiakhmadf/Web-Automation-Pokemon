@@ -11,14 +11,14 @@ public class ArticlePage {
     public String getPokemonName() {
         WebDriverWait explicitWait = new WebDriverWait(WebDriverInstance.driver, 30);
         WebElement pokemonName = explicitWait
-                .until(ExpectedConditions.presenceOfElementLocated(By.id("//td[@class='roundy']//table//tbody//tr//td//big//b")));
+                .until(ExpectedConditions.presenceOfElementLocated(By.xpath("//td[@class='roundy']//table//tbody//tr//td//big//b")));
         return pokemonName.getText();
     }
 
     public String getPokemonNumber() {
         WebDriverWait explicitWait = new WebDriverWait(WebDriverInstance.driver, 30);
         WebElement pokemonNumber = explicitWait
-                .until(ExpectedConditions.presenceOfElementLocated(By.id("//th[@class='roundy']//big//big//a//span")));
+                .until(ExpectedConditions.presenceOfElementLocated(By.xpath("//table[@class='roundy']//a[@title='List of Pokémon by National Pokédex number']/span")));
         return pokemonNumber.getText();
     }
 
