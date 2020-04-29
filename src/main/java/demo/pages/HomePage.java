@@ -16,7 +16,7 @@ public class HomePage {
 
     public void inputAndSearchPokemon(String keyword) {
         // Find element by ID
-        WebElement inputSearch = WebDriverInstance.driver.findElement(By.id("searchInput"));
+        WebElement inputSearch = WebDriverInstance.driver.findElement(By.xpath("//input[@id='searchInput']"));
         // Input keyword
         inputSearch.sendKeys(keyword + Keys.ENTER);
     }
